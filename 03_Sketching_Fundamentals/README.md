@@ -1,5 +1,6 @@
 
 
+
 # ✏️ Module 03: Sketching Fundamentals
 
 Welcome to the point where ideas begin to take shape!
@@ -140,6 +141,9 @@ Save screenshots of my actual work in the `images/` folder:
 - `01_Basic_Sketch.png`
   <img width="1917" height="978" alt="Screenshot 2026-10-13 143324" src="https://github.com/user-attachments/assets/613a5e0f-63c5-4730-8e1a-e8d8a11ab651" />
   <img width="826" height="437" alt="Screenshot 2026-10-13 144135" src="https://github.com/user-attachments/assets/3309b142-2125-4246-87ae-49a9d64a5afa" />
+  <img width="990" height="712" alt="Screenshot 2026-10-13 150753" src="https://github.com/user-attachments/assets/057eb59e-165b-4b21-921f-dc41246270a5" />
+<img width="905" height="708" alt="Screenshot 2026-10-13 150633" src="https://github.com/user-attachments/assets/473caf83-c526-4ebc-b55e-4ed8f30f5c15" />
+
 - `02_Dimensioned_Rectangle.png`
 - `03_Constrained_Circle.png`
 - `04_Mounting_Plate_Sketch.png`
