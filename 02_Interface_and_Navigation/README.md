@@ -1,3 +1,4 @@
+
 # 🧭 Module 02: Exploring the Fusion 360 Interface
 
 Welcome to the digital workshop! 🛠️
@@ -121,17 +122,8 @@ My first practical task is to explore the interface without worrying about creat
 - [ ] Take a screenshot of the workspace.
 
 ## 📸 Screenshots and Evidence
+<img width="1672" height="941" alt="Fusion 360 Triple Clamp Interface Guide" src="https://github.com/user-attachments/assets/bfc5303e-51e8-4518-9b9c-d2a8a619d726" />
 
-Save screenshots captured from my own Fusion workspace in the `images/` folder.
-
-Suggested filenames:
-
-- `01_Fusion_Interface.png`
-- `02_ViewCube_Views.png`
-- `03_Browser_and_Timeline.png`
-- `04_Navigation_Practice.png`
-
-These screenshots document my actual learning progress.
 
 ## 🐛 Mistakes and Lessons Learned
 
