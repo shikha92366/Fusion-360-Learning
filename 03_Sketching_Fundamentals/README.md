@@ -1,3 +1,4 @@
+<img width="1917" height="978" alt="Screenshot 2026-10-13 143324" src="https://github.com/user-attachments/assets/613a5e0f-63c5-4730-8e1a-e8d8a11ab651" />
 # ✏️ Module 03: Sketching Fundamentals
 
 Welcome to the point where ideas begin to take shape!
@@ -136,6 +137,7 @@ The hole diameter and hole positions will be chosen and documented as part of th
 Save screenshots of my actual work in the `images/` folder:
 
 - `01_Basic_Sketch.png`
+  <img width="1917" height="978" alt="Screenshot 2026-10-13 143324" src="https://github.com/user-attachments/assets/613a5e0f-63c5-4730-8e1a-e8d8a11ab651" />
 - `02_Dimensioned_Rectangle.png`
 - `03_Constrained_Circle.png`
 - `04_Mounting_Plate_Sketch.png`
